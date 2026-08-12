@@ -1,0 +1,17 @@
+{
+  "title": "Berserk",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "0.04": {
+      "title": "",
+      "last_updated": "1786494242",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/md7ordeqr7p"
+      },
+      "volume": "02"
+    }
+  }
+}
