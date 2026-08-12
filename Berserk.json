@@ -1,15 +1,15 @@
 {
   "title": "Berserk",
-  "description": "",
-  "artist": "",
-  "author": "",
-  "cover": "",
+  "description": "Rejtélyes harcos, bélyeggel a nyakán és egy hatalmas vastömbnek tűnő karddal a hátán, járja a vidéket, apostolokra vadászva. De hogy került a bélyeg a nyakára? Miért vadássza az apostolokat? Vajon képes lesz majd békére lelni?",
+  "artist": "Miura Kentatou",
+  "author": "Miura Kentatou",
+  "cover": "https://i.postimg.cc/RZDZpfWq/vol5.png",
   "chapters": {
     "0.04": {
-      "title": "",
+      "title": "A vágy őrangyalai (2)",
       "last_updated": "1786494242",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/md7ordeqr7p"
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/md7ordeqr7p"
       },
       "volume": "02"
     }
