@@ -6,10 +6,18 @@
   "cover": "https://i.postimg.cc/RZDZpfWq/vol5.png",
   "chapters": {
     "0.04": {
-      "title": "A vágy őrangyalai (2)",
+      "title": "",
       "last_updated": "1786494242",
       "groups": {
-        "Anime Sekai Team": "/proxy/api/imgchest/chapter/md7ordeqr7p"
+        "": "/proxy/api/imgchest/chapter/md7ordeqr7p"
+      },
+      "volume": "02"
+    },
+    "0.05": {
+      "title": "",
+      "last_updated": "1786495732",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/9ryd83jwn4k"
       },
       "volume": "02"
     }
