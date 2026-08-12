@@ -78,7 +78,7 @@
       "volume": "02"
     },
     "011": {
-      "title": "Vártorony",
+      "title": "Kazamata",
       "last_updated": "1786498996",
       "groups": {
         "Anime Sekai Team": "/proxy/api/imgchest/chapter/9ryd83mzw4k"
@@ -98,6 +98,46 @@
       "last_updated": "1786498999",
       "groups": {
         "Anime Sekai Team": "/proxy/api/imgchest/chapter/vj4j25k3278"
+      },
+      "volume": "02"
+    },
+    "013": {
+      "title": "A gyémánt mágus",
+      "last_updated": "1786502394",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/wl7ljl29pyx"
+      },
+      "volume": "02"
+    },
+    "012": {
+      "title": "Találkozó",
+      "last_updated": "1786502397",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/9ryd836xw4k"
+      },
+      "volume": "02"
+    },
+    "014": {
+      "title": "Csapattársak",
+      "last_updated": "1786502398",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/ljyq3mrvo42"
+      },
+      "volume": "02"
+    },
+    "015": {
+      "title": "Mi hárman",
+      "last_updated": "1786502398",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/6eyrw3mve7p"
+      },
+      "volume": "02"
+    },
+    "016": {
+      "title": "Élet-halál harca",
+      "last_updated": "1786502420",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/qe4g6z5jryj"
       },
       "volume": "02"
     }
