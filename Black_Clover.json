@@ -68,6 +68,38 @@
         "Anime Sekai Team": "/proxy/api/imgchest/chapter/a846bqpvgyx"
       },
       "volume": "01"
+    },
+    "009": {
+      "title": "Egy fiú fogadalma 2. verzió",
+      "last_updated": "1786498994",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/wl7ljlgkpyx"
+      },
+      "volume": "02"
+    },
+    "011": {
+      "title": "Kazamata",
+      "last_updated": "1786498996",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/9ryd83mzw4k"
+      },
+      "volume": "02"
+    },
+    "010": {
+      "title": "Incidens a kastélyvárosban",
+      "last_updated": "1786498997",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/ljyq3mxqo42"
+      },
+      "volume": "02"
+    },
+    "008": {
+      "title": "A védelmezők",
+      "last_updated": "1786498999",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/vj4j25k3278"
+      },
+      "volume": "02"
     }
   }
 }
