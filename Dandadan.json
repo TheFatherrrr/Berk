@@ -1,0 +1,25 @@
+{
+  "title": "Dandadan",
+  "description": "Egy dühítő szakítás után Ayase Momo frusztráltan baktat az iskola folyosóján, mikor meglátja, hogy egy srácot zaklatnak az osztálytársai. A hirtelen kedvességből megmentett okkultmániás fiú mintegy köszönetképpen nekiáll megosztani vele a tudását, amit viszont Ayase badarságnak tart. Szerinte a szellemek azok, amik léteznek. Ezt persze a fiú neveti ki, így aztán fogadást kötnek. Ayase meglátogat az ufó elrablásokról híres épületet, míg új barátja egy szellemjárta aluljárót keres fel.",
+  "artist": "Tatsu Yukinobu",
+  "author": "Tatsu Yukinobu",
+  "cover": "https://i.imgur.com/MadXRmH.jpeg",
+  "chapters": {
+    "009": {
+      "title": "Hiányzunk egymásnak",
+      "last_updated": "1786658936",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/5xy2vjerj7l"
+      },
+      "volume": "02"
+    },
+    "013": {
+      "title": "Nőstül jön a baj",
+      "last_updated": "1786659025",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/bp45br8a245"
+      },
+      "volume": "02"
+    }
+  }
+}
