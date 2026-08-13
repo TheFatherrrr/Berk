@@ -22,7 +22,7 @@
       "volume": "02"
     },
     "011": {
-      "title": "Mit képzelsz te rohadt mandarin?",
+      "title": "Mit képzelsz te rohadt mandarin",
       "last_updated": "1786659642",
       "groups": {
         "Anime Sekai Team": "/proxy/api/imgchest/chapter/a846bmggoyx"
@@ -42,6 +42,14 @@
       "last_updated": "1786660947",
       "groups": {
         "Anime Sekai Team": "/proxy/api/imgchest/chapter/5xy2vjl9n7l"
+      },
+      "volume": "02"
+    },
+    "008": {
+      "title": "Dézsmáljunk rákot!",
+      "last_updated": "1786661054",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/bp45brdgx45"
       },
       "volume": "02"
     }
