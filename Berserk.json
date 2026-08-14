@@ -4,5 +4,14 @@
   "artist": "Miura Kentatou",
   "author": "Miura Kentatou",
   "cover": "https://i.postimg.cc/RZDZpfWq/vol5.png",
-  "chapters": {}
+  "chapters": {
+    "0.01": {
+      "title": "A fekete kardforgató",
+      "last_updated": "1786673943",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/5xy2vjdm37l"
+      },
+      "volume": "01"
+    }
+  }
 }
