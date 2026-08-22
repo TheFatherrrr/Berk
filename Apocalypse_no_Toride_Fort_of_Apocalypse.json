@@ -1,0 +1,41 @@
+{
+  "title": "Apocalypse no Toride (Fort of Apocalypse)",
+  "description": "Gyilkosság vádjával nem olyan jó egy nevelőintézetbe kerülni mi? Főleg ha tévesen kerültél be, de Yoshiaki Maeda pont ebbe a helyzetbe került, és a cellatársai sem azok a háttérben maradó emberek, de ezt még fejeljük meg egy zombiapokalipszissel, és teljes lesz a kép.",
+  "artist": "Inabe Kazu",
+  "author": "Kuraishi Yuu",
+  "cover": "https://static.tvtropes.org/pmwiki/pub/images/Apocalypse_no_Toride_1_2559.jpg",
+  "chapters": {
+    "003": {
+      "title": "Vissza az útra",
+      "last_updated": "1787435806",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/ljyqo9z8x42"
+      },
+      "volume": "01"
+    },
+    "004": {
+      "title": "Teljes kétségbeesés",
+      "last_updated": "1787435809",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/vj4jbdvqe78"
+      },
+      "volume": "02"
+    },
+    "001": {
+      "title": "Az őrület peremén",
+      "last_updated": "1787435818",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/5xy26p3b84l"
+      },
+      "volume": "01"
+    },
+    "002": {
+      "title": "Halhatatlan zendülés",
+      "last_updated": "1787435821",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/wl7lbxr3o4x"
+      },
+      "volume": "01"
+    }
+  }
+}
