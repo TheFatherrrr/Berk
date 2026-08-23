@@ -252,6 +252,22 @@
         "Anime Sekai Team": "/proxy/api/imgchest/chapter/lqyebvnokyd"
       },
       "volume": "07"
+    },
+    "032": {
+      "title": "Fekete esős szombat",
+      "last_updated": "1787513010",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/lqyebv563yd"
+      },
+      "volume": "08"
+    },
+    "031": {
+      "title": "Vér utja egy oszló fejben",
+      "last_updated": "1787513011",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/qe4gbl6xr7j"
+      },
+      "volume": "08"
     }
   }
 }
