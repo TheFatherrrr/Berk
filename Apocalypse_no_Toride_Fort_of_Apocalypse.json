@@ -356,6 +356,30 @@
         "Anime Sekai Team": "/proxy/api/imgchest/chapter/m9yxogvmkyq"
       },
       "volume": "10"
+    },
+    "046": {
+      "title": "A jövő a kezükben van",
+      "last_updated": "1787528999",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/pg73vjwxjyr"
+      },
+      "volume": "10"
+    },
+    "047": {
+      "title": "Extra fejezetek",
+      "last_updated": "1787529007",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/ej7mo2kqn4d"
+      },
+      "volume": "10"
+    },
+    "045": {
+      "title": "Garantálva",
+      "last_updated": "1787529072",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/qb4zokjvd7j"
+      },
+      "volume": "10"
     }
   }
 }
