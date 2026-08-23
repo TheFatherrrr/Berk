@@ -44,6 +44,38 @@
         "Anime Sekai Team": "/proxy/api/imgchest/chapter/dl7pojkek4o"
       },
       "volume": "07"
+    },
+    "006": {
+      "title": "Arany szív",
+      "last_updated": "1787445846",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/9p4nbewgb4n"
+      },
+      "volume": "02"
+    },
+    "005": {
+      "title": "Keserű javulás",
+      "last_updated": "1787445853",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/md7oogwz27p"
+      },
+      "volume": "02"
+    },
+    "007": {
+      "title": "Ünnepségek a sötétben",
+      "last_updated": "1787445854",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/ne7bbwdgm75"
+      },
+      "volume": "02"
+    },
+    "008": {
+      "title": "Álomnap gyilkosok",
+      "last_updated": "1787445855",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/dl7pojeg34o"
+      },
+      "volume": "03"
     }
   }
 }
