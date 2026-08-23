@@ -108,6 +108,38 @@
         "Anime Sekai Team": "/proxy/api/imgchest/chapter/pg73v95boyr"
       },
       "volume": "04"
+    },
+    "016": {
+      "title": "Kalandok a bokorral",
+      "last_updated": "1787490846",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/pg73vpjvjyr"
+      },
+      "volume": "05"
+    },
+    "013": {
+      "title": "Rikkun képzelgése",
+      "last_updated": "1787490848",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/6eyro2dogyp"
+      },
+      "volume": "04"
+    },
+    "015": {
+      "title": "Élet ostromkor",
+      "last_updated": "1787490849",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/qb4zo3kod7j"
+      },
+      "volume": "04"
+    },
+    "014": {
+      "title": "Fordítsd át Wagnert",
+      "last_updated": "1787490849",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/ej7mon2on4d"
+      },
+      "volume": "04"
     }
   }
 }
