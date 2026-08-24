@@ -1,0 +1,33 @@
+{
+  "title": "Basilisk - Kouga Ninpo Cho",
+  "description": "A Kouga és Iga klán évszázadok óta harcban állt egymással. Hattori azonban egy egyezséget köttetett közöttük, ami az egyesülésükhöz vezetett volna. Azonban egy nap Tokugawa Ieyasu megbízására ismét fel kell venniük egymással a harcot, amellyel eldőlhet Ieyasu melyik unokája lesz az örököse. Amelyik klánnak a harc során fennmarad valamely tagja is, az életreszóló dicsőséget és elismerést szerez az egész klánjának. A harc kezdetét veszi és az utolsó vérig küzdelemre buzdítja a két klán tagjait.",
+  "artist": "Segawa Masaki",
+  "author": "Yamada Fuutarou",
+  "cover": "https://i.imgur.com/CaYEC2n.jpeg",
+  "chapters": {
+    "003": {
+      "title": "9 vs 9 (2. rész)",
+      "last_updated": "1787530892",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/ej7mo23jb4d"
+      },
+      "volume": "01"
+    },
+    "002": {
+      "title": "9 vs 9 (1. rész)",
+      "last_updated": "1787530898",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/pg73vjb2zyr"
+      },
+      "volume": "01"
+    },
+    "004": {
+      "title": "9 vs 9 (3. rész)",
+      "last_updated": "1787530903",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/lqyebpqo3yd"
+      },
+      "volume": "01"
+    }
+  }
+}
