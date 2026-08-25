@@ -28,6 +28,62 @@
         "Anime Sekai Team": "/proxy/api/imgchest/chapter/lqyebpqo3yd"
       },
       "volume": "01"
+    },
+    "006": {
+      "title": "7 vs 9 (2. rész)",
+      "last_updated": "1787650689",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/vj4jbqn5578"
+      },
+      "volume": "01"
+    },
+    "005": {
+      "title": "7 vs 9 (1. rész)",
+      "last_updated": "1787650690",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/ljyqo85me42"
+      },
+      "volume": "01"
+    },
+    "007": {
+      "title": "6 vs 9 (1. rész)",
+      "last_updated": "1787650697",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/6eyrox53kyp"
+      },
+      "volume": "02"
+    },
+    "001": {
+      "title": "10 vs 10",
+      "last_updated": "1787650706",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/9rydbjn3d4k"
+      },
+      "volume": "01"
+    },
+    "008": {
+      "title": "6 vs 9 (2. rész)",
+      "last_updated": "1787650712",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/qb4zowmlg7j"
+      },
+      "volume": "02"
+    },
+    "009": {
+      "title": "6 vs 9 (3. rész)",
+      "last_updated": "1787650713",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/qe4gb2pzo7j"
+      },
+      "volume": "02"
+    },
+    "010": {
+      "title": "6 vs 8 (1. rész)",
+      "last_updated": "1787650719",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/bp45926ex75"
+      },
+      "volume": "02"
     }
   }
 }
