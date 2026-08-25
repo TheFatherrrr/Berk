@@ -252,6 +252,30 @@
         "Anime Sekai Team": "/proxy/api/imgchest/chapter/qb4zowapd7j"
       },
       "volume": "05"
+    },
+    "033": {
+      "title": "1 vs 2",
+      "last_updated": "1787675213",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/9p4nbneab4n"
+      },
+      "volume": "05"
+    },
+    "032": {
+      "title": "2 vs 2 (3. rész)",
+      "last_updated": "1787675214",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/dl7povjb34o"
+      },
+      "volume": "05"
+    },
+    "034": {
+      "title": "1 vs 1",
+      "last_updated": "1787675224",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/md7oo9gk27p"
+      },
+      "volume": "05"
     }
   }
 }
