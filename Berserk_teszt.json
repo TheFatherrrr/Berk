@@ -12,6 +12,30 @@
         "Anime Sekai Team": "/proxy/api/imgchest/chapter/5xy298oq84l"
       },
       "volume": "01"
+    },
+    "003": {
+      "title": "",
+      "last_updated": "1789425010",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/ej7mxle6q4d"
+      },
+      "volume": "01"
+    },
+    "004": {
+      "title": "",
+      "last_updated": "1789425010",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/6eyrjmn6k4p"
+      },
+      "volume": "01"
+    },
+    "002": {
+      "title": "",
+      "last_updated": "1789425030",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/pg73n5o8v4r"
+      },
+      "volume": "01"
     }
   }
 }
