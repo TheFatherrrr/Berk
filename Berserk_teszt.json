@@ -1,0 +1,17 @@
+{
+  "title": "Berserk teszt",
+  "description": "Nagy test",
+  "artist": "Miura Kentatou",
+  "author": "Miura Kentatou",
+  "cover": "https://i.postimg.cc/RZDZpfWq/vol5.png",
+  "chapters": {
+    "001": {
+      "title": "",
+      "last_updated": "1789424529",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/5xy298oq84l"
+      },
+      "volume": "01"
+    }
+  }
+}
