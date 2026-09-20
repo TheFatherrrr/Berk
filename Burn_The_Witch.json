@@ -1,0 +1,49 @@
+{
+  "title": "Burn The Witch",
+  "description": "Boszorkányok, sárkányok és fordított london!! Mit tartogat még a \"Bleach\" alkotójának legújabb, 4 fejezetes, a 2 évvel ezelőtti One-Shot után játszódó rövid sorozata?",
+  "artist": "Kubo Tite",
+  "author": "Kubo Tite",
+  "cover": "https://i.imgur.com/AWj5z8Q.png",
+  "chapters": {
+    "002": {
+      "title": "Ghillie Suit",
+      "last_updated": "1789941923",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/m9yxwbjkm7q"
+      },
+      "volume": "01"
+    },
+    "003": {
+      "title": "She Makes Me Special",
+      "last_updated": "1789941924",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/9249revzv4n"
+      },
+      "volume": "01"
+    },
+    "001": {
+      "title": "Witches Blow A New Pipe",
+      "last_updated": "1789941948",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/9p4n9anew7n"
+      },
+      "volume": "01"
+    },
+    "000": {
+      "title": "Burn The Witch (One-Shot)",
+      "last_updated": "1789941951",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/ne7bmj5wk45"
+      },
+      "volume": "00"
+    },
+    "004": {
+      "title": "If A Lion Could Speak We Couldn't Understand",
+      "last_updated": "1789941968",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/wl7lv89x6yx"
+      },
+      "volume": "01"
+    }
+  }
+}
