@@ -1,6 +1,6 @@
 {
   "title": "Devil May Cry 3",
-  "description": "3? Semmi ok a pánikra, a manga nem folytatás, hanem a méltán híres Devil May Cry játék széria legismertebb és legtöbb példányban eladott játékának manga feldolgazását olvashatjátok. Egyszer nagyon régen fellázadt egy démon a sajátjai ellen és kardjával elzárta az átjárót az emberek és démonok világa között. ő? maga a túloldalon ragadt és az emberek között kárhoztatva élt tovább. /n /n Emberek, Démonok, fegyverek és rengeteg vér. Ebben a világban él Dante a mogorva démonvadász, aki maga is félig démon. És itt van Vergil, aki egyszemélyben Dante ikertestvére és történetünk főgonosza is. Vergil célja nem más, mint rászabadítani a poklot az emberekre. A cél adott, meg kell állítani Vergilt. De mégis, hogyan juthatunk el odáig?",
+  "description": "3? Semmi ok a pánikra, a manga nem folytatás, hanem a méltán híres Devil May Cry játék széria legismertebb és legtöbb példányban eladott játékának manga feldolgazását olvashatjátok.",
   "artist": "Chayamachi Suguro",
   "author": "Chayamachi Suguro",
   "cover": "https://www.mediafire.com/file_premium/c2fv3ai2zilmuin/525341263_18076077809299433_577549163496778214_n.png/file",
@@ -50,6 +50,30 @@
       "last_updated": "1789945850",
       "groups": {
         "Anime Sekai Team": "/proxy/api/imgchest/chapter/agyvkbqgb48"
+      },
+      "volume": "02"
+    },
+    "009": {
+      "title": "",
+      "last_updated": "1789949680",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/agyvkb9gb48"
+      },
+      "volume": "02"
+    },
+    "008": {
+      "title": "",
+      "last_updated": "1789949687",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/9249repmb4n"
+      },
+      "volume": "02"
+    },
+    "007": {
+      "title": "",
+      "last_updated": "1789949699",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/o24arl8ddyl"
       },
       "volume": "02"
     }
