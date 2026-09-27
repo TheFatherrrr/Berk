@@ -172,6 +172,54 @@
         "Anime Sekai Team": "/proxy/api/imgchest/chapter/92496zobb4n"
       },
       "volume": "03"
+    },
+    "024": {
+      "title": "Yggdrasil",
+      "last_updated": "1790538711",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/bp45gxaavy5"
+      },
+      "volume": "04"
+    },
+    "022": {
+      "title": "Brom",
+      "last_updated": "1790538711",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/a8468avv2yx"
+      },
+      "volume": "04"
+    },
+    "025": {
+      "title": "Helliion 1",
+      "last_updated": "1790538740",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/o24a5pzze7l"
+      },
+      "volume": "05"
+    },
+    "026": {
+      "title": "Helliion 2",
+      "last_updated": "1790538782",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/ljyqwqggxy2"
+      },
+      "volume": "05"
+    },
+    "027": {
+      "title": "Helliion 3",
+      "last_updated": "1790538801",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/9rydkzll64k"
+      },
+      "volume": "05"
+    },
+    "028": {
+      "title": "Helliion pengéje",
+      "last_updated": "1790538801",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/6eyre2rrl7p"
+      },
+      "volume": "05"
     }
   }
 }
