@@ -1,0 +1,81 @@
+{
+  "title": "Legend of Tyr",
+  "description": "Tyr és Loki, a helyi kovács két fia békés mindennapjaikat töltik a város melletti erdőben. Az idősebb testvér, Loki megszállottja Athlonnak, akit az Első Kard Császárként ismernek, nevét a történelemkönyvek is feljegyezték, tetteiről legendák szólnak. Gyermeki rajongással olvassa a nagy hős életét végigkövető naplót. Tyr, akit egy cseppet sem foglalkoztatnak a múlt történései, csak nevet rajta. Lokit, mint elsőszülött fiút az apa szigorú neveltetésben részesíti. Aktívan ki kell vennie részét a kovácsműhely életében és edzenie kell, hiszen egy jó kovács nem csak a kardok készítéséhez ért, hanem a kardforgatáshoz is. Lokit azonban bosszantja, hogy korlátozzák a szabadságát. Egy este a kocsmában verekedés tör ki, Loki pedig segít néhány zsoldosnak megoldani a problémát. A vezetőjük - látva a fiú ügyességét és rátermettségét - felkínálja neki a szabadulást: Váljon zsoldossá és tartson velük! A kalandvágyó fiú még aznap este megszökik otthonról kardja és naplója társaságában, hátrahagyva öccsét és apját, hogy megtalálja az álmait.",
+  "artist": "Son Chang-ho",
+  "author": "Na In-Soo",
+  "cover": "https://cdn.myanimelist.net/images/manga/2/73217l.jpg",
+  "chapters": {
+    "002": {
+      "title": "Harcosok",
+      "last_updated": "1790526323",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/a8468a26oyx"
+      },
+      "volume": "01"
+    },
+    "004": {
+      "title": "Az Askhal hegység",
+      "last_updated": "1790526325",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/xny8axj257b"
+      },
+      "volume": "01"
+    },
+    "003": {
+      "title": "Bátyus naplója",
+      "last_updated": "1790526325",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/o24a5pbn27l"
+      },
+      "volume": "01"
+    },
+    "005": {
+      "title": "Az azúrvérű klán",
+      "last_updated": "1790526378",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/dl7p3jo5p4o"
+      },
+      "volume": "01"
+    },
+    "007": {
+      "title": "Időbábu",
+      "last_updated": "1790526384",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/md7omgo5ryp"
+      },
+      "volume": "02"
+    },
+    "006": {
+      "title": "Samjogo",
+      "last_updated": "1790526392",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/na7kjzb5b48"
+      },
+      "volume": "02"
+    },
+    "001": {
+      "title": "Előzmény",
+      "last_updated": "1790526393",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/qb4zx9omd7j"
+      },
+      "volume": "01"
+    },
+    "008": {
+      "title": "A napló",
+      "last_updated": "1790526425",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/92496zq9m4n"
+      },
+      "volume": "02"
+    },
+    "009": {
+      "title": "A döntés",
+      "last_updated": "1790526427",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/m9yx6koqqyq"
+      },
+      "volume": "02"
+    }
+  }
+}
