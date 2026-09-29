@@ -220,6 +220,70 @@
         "Anime Sekai Team": "/proxy/api/imgchest/chapter/6eyre2rrl7p"
       },
       "volume": "05"
+    },
+    "023": {
+      "title": "A boszorkány",
+      "last_updated": "1790718568",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/qe4gnx39b7j"
+      },
+      "volume": "04"
+    },
+    "031": {
+      "title": "Tiszteletreméltó halál",
+      "last_updated": "1790718568",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/xny8aownd7b"
+      },
+      "volume": "06"
+    },
+    "029": {
+      "title": "Forró vér",
+      "last_updated": "1790718572",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/o24a5vl9w7l"
+      },
+      "volume": "05"
+    },
+    "030": {
+      "title": "Nehézségek",
+      "last_updated": "1790718577",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/bp45gzrvgy5"
+      },
+      "volume": "05"
+    },
+    "033": {
+      "title": "Bizalom",
+      "last_updated": "1790718599",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/na7kjeglm48"
+      },
+      "volume": "06"
+    },
+    "032": {
+      "title": "Hűség",
+      "last_updated": "1790718604",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/5xy2k3jv8yl"
+      },
+      "volume": "06"
+    },
+    "035": {
+      "title": "Egy kétségbeesett harc vége",
+      "last_updated": "1790718604",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/vj4jlvz2ey8"
+      },
+      "volume": "06"
+    },
+    "034": {
+      "title": "Felébredt Tyr",
+      "last_updated": "1790718605",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/wl7lqr8jo4x"
+      },
+      "volume": "06"
     }
   }
 }
