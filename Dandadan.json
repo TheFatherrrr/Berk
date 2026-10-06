@@ -71,30 +71,30 @@
     },
     "004": {
       "title": "Irány a klotyó!",
-      "last_updated": "1786669623",
+      "last_updated": "1791278867",
       "groups": {
-        "Anime Sekai Team": "/proxy/api/imgchest/chapter/m9yxabmn64q"
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/wl7lq69aq4x"
       },
       "volume": "01"
     },
     "003": {
       "title": "Nagyi a nagyi ellen!",
-      "last_updated": "1786669901",
+      "last_updated": "1791278962",
       "groups": {
-        "Anime Sekai Team": "/proxy/api/imgchest/chapter/m9yxabmak4q"
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/vj4jl69exy8"
       },
       "volume": "01"
     },
     "001": {
-      "title": "Így lesz a szerelem, vágesz?",
-      "last_updated": "1786669964",
+      "title": "Így lesz a szerelem, vágesz",
+      "last_updated": "1791279022",
       "groups": {
-        "Anime Sekai Team": "/proxy/api/imgchest/chapter/9249bedbayn"
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/ljyqw6vany2"
       },
       "volume": "01"
     },
     "002": {
-      "title": "Ez egy űrlény, ugye?",
+      "title": "Ez egy űrlény, ugye",
       "last_updated": "1786674236",
       "groups": {
         "Anime Sekai Team": "/proxy/api/imgchest/chapter/md7ork9kl7p"
@@ -108,6 +108,30 @@
         "Anime Sekai Team": "/proxy/api/imgchest/chapter/lqye5rremyd"
       },
       "volume": "01"
+    },
+    "014": {
+      "title": "A Bársonyhajú Mutatványos túl hosszú név",
+      "last_updated": "1791278891",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/9rydkex2l4k"
+      },
+      "volume": "02"
+    },
+    "016": {
+      "title": "A Mutatványos",
+      "last_updated": "1791278991",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/o24a5m3n27l"
+      },
+      "volume": "03"
+    },
+    "015": {
+      "title": "Legyen csak simán Mutatványos!",
+      "last_updated": "1791278992",
+      "groups": {
+        "Anime Sekai Team": "/proxy/api/imgchest/chapter/6eyre6v5g7p"
+      },
+      "volume": "03"
     }
   }
 }
